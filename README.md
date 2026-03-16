@@ -1,10 +1,10 @@
 # OneLightSystem (OLS) – olsme.tv & OLSME.com
 
-[![React](https://img.shields.io/badge/React-18%2B-61DAFB.svg)](https://react.dev)
+[![React](https://img.shields.io/badge/React-19%2B-61DAFB.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://www.typescriptlang.org)
 [![Next.js](https://img.shields.io/badge/Next.js-15%2B-000000.svg)](https://nextjs.org)
-[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF.svg)](https://vitejs.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-10.x-FFCA28.svg)](https://firebase.google.com)
+[![Vite](https://img.shields.io/badge/Vite-6.x-646CFF.svg)](https://vitejs.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-12.x-FFCA28.svg)](https://firebase.google.com)
 
 **Mindful Random Video Chat + Meditation Education Platform**  
 Built with React 19 + TypeScript, Next.js 15, Vite, and Firebase. Real-time awaken chats with AI politeness scoring and Light Minutes tracking.
