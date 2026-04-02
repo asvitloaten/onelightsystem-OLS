@@ -3,8 +3,9 @@
 [![React](https://img.shields.io/badge/React-19%2B-61DAFB.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://www.typescriptlang.org)
 [![Next.js](https://img.shields.io/badge/Next.js-15%2B-000000.svg)](https://nextjs.org)
-[![Vite](https://img.shields.io/badge/Vite-6.x-646CFF.svg)](https://vitejs.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-12.x-FFCA28.svg)](https://firebase.google.com)
+[![Vite](https://img.shields.io/badge/Vite-8.x-646CFF.svg)](https://vitejs.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-12.10-FFCA28.svg)](https://firebase.google.com)
+[![Node](https://img.shields.io/badge/Node-22.x-3c873a.svg)](https://nodejs.org/)
 
 **Mindful Random Video Chat + Meditation Education Platform**  
 Built with React 19 + TypeScript, Next.js 15, Vite, and Firebase. Real-time awaken chats with AI politeness scoring and Light Minutes tracking.
@@ -34,6 +35,8 @@ Part of the larger OneLightSystem (OLS) ecosystem — meditation education, brea
 
 See the dedicated **[UPDATES.md](./UPDATES.md)** for the latest luminous progress on olsme.com web development, bug fixes, and roadmap milestones.
 
+> 🆕 **Latest:** [v8.43.2 Release](./updates/2026-04-02-v8.4.md) — Major dependency upgrades including React 19.2.4, Vite 8.0.2, Firebase 12.10.0, Tailwind CSS 4.2.2
+
 ## Sponsor & Collaborate
 
 We warmly invite you to support OneLightSystem through GitHub Sponsors:  
@@ -42,6 +45,14 @@ We warmly invite you to support OneLightSystem through GitHub Sponsors:
 Your contributions fuel the growth of **Sun Light Meditation** education and the vision of a global Sun Light Civilization.  
 
 Become an OLS sponsor or promoter → [olsme.com/sponsor](https://olsme.com/sponsor)  
+
+### Current Sponsor Tiers (*prices changing soon — lock in now!*)
+
+| Tier | Price |
+|------|-------|
+| 🌱 Seed of Light | **$5/mo** |
+| ☀️ Sun Supporter | **$20/mo** |
+| 🔥 Radiant Champion | **$50/mo** |
 
 We are actively seeking React/TypeScript developers, wellness partners, and early users.
 
