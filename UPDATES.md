@@ -13,7 +13,47 @@ All updates follow the luminous principles of **transparency, empowerment, and c
 
 ---
 
-## Latest Update – April 02, 2026
+## ☀️ v8.43.2 Release — April 02, 2026
+
+> 🔗 **Full release:** [onelightsystem/3265.olsme/releases/tag/v8.4](https://github.com/onelightsystem/3265.olsme/releases/tag/v8.4)  
+> 📄 **Detailed update page:** [updates/2026-04-02-v8.4.md](./updates/2026-04-02-v8.4.md)
+
+### Major Dependency Upgrades (Complete & Validated)
+
+| Package | From | To |
+|---------|------|----|
+| Tailwind CSS | 3.4.17 | **4.2.2** |
+| Vite | 7.3.1 | **8.0.2** |
+| @vitejs/plugin-react | 5.1.4 | **6.0.1** |
+| React & React DOM | 18.x | **19.2.4** |
+| Firebase | 11.x | **12.10.0** |
+| firebase-functions | — | **7.0.6** (Node 22 runtime) |
+| date-fns | 3.6.0 | **4.1.0** |
+| Ant Design | — | **^6.3.5** |
+| Recharts | — | **3.7+** |
+| react-router-dom | — | **7.13.2** |
+
+### Key Highlights
+
+- **Tailwind CSS 4.2.2**: Unified CSS variables, flat theme, `gray` → `neutral` migration
+- **Vite 8.0.2**: Enhanced HMR and build performance
+- **React 19.2.4**: Full concurrent features upgrade from 18.x
+- **Firebase 12.10.0**: Node 22 runtime, firebase-functions 7.0.6
+- **Ant Design ^6.3.5**, **Recharts 3.7+**, **react-router-dom 7.13.2**
+
+### 💰 Sponsor Tiers — Lock In Current Pricing!
+
+| Tier | Price | Note |
+|------|-------|------|
+| 🌱 Seed of Light | **$5/mo** | *Changing soon — lock in now!* |
+| ☀️ Sun Supporter | **$20/mo** | *Changing soon — lock in now!* |
+| 🔥 Radiant Champion | **$50/mo** | *Changing soon — lock in now!* |
+
+→ **[Sponsor @onelightsystem](https://github.com/sponsors/onelightsystem)** | [olsme.com/sponsor](https://olsme.com/sponsor)
+
+---
+
+## Initial Platform Update – April 02, 2026
 
 **Status:** Public GitHub branch (`main`) at https://github.com/asvitloaten/onelightsystem-OLS is active with 11 commits.
 
