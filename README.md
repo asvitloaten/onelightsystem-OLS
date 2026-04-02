@@ -9,11 +9,13 @@
 **Mindful Random Video Chat + Meditation Education Platform**  
 Built with React 19 + TypeScript, Next.js 15, Vite, and Firebase. Real-time awaken chats with AI politeness scoring and Light Minutes tracking.
 
-### What is olsme.tv?
+## What is olsme.tv?
+
 A sovereign wellness-tech platform where people meet in random video chats, get AI-driven politeness & mindfulness feedback, and grow their personal **Live ID** score.  
 Part of the larger OneLightSystem (OLS) ecosystem — meditation education, breath protocols, and sunlight civilization tools.
 
-### Tech Stack
+## Tech Stack
+
 - **Frontend**: React 19 + TypeScript (strict mode, zero lint errors)  
 - **Framework**: Next.js 15 (App Router + SSR) + Vite for fast dev  
 - **Backend / Real-time**: Firebase (Auth, Firestore, Functions, WebRTC signaling)  
@@ -21,23 +23,37 @@ Part of the larger OneLightSystem (OLS) ecosystem — meditation education, brea
 - **AI Layer**: Grok + custom prompts for politeness scoring  
 - **Deployment**: Firebase Hosting + Vercel previews  
 
-### Current Features
+## Current Features
+
 - Random Video Awaken Chat (WebRTC)  
 - Politeness Score + Live ID system (in development)  
 - OLS Meditation Tracker (20,580+ Light Minutes logged)  
 - Responsive TV-first UI (olsme.tv)  
 
-### Quick Links
-- Live: [olsme.tv](https://olsme.tv)  
-- Main Site: [olsme.com](https://olsme.com)  
-- Portfolio PDF: [Frontend Portfolio](https://github.com/asvitloaten/ols.iee.aeo.OLSME/blob/main/Frontend%20Portfolio%20–%20React:TypeScript:Next%20Projects%20NazarPankiv%203-16-26.pdf)  
+## Development Updates
 
-### Want to join or sponsor?
-We are actively looking for React/TypeScript developers, wellness partners, and early users.  
-Become an OLS sponsor or promoter → [olsme.com/sponsor](https://olsme.com/sponsor)
+See the dedicated **[UPDATES.md](./UPDATES.md)** for the latest luminous progress on olsme.com web development, bug fixes, and roadmap milestones.
+
+## Sponsor & Collaborate
+
+We warmly invite you to support OneLightSystem through GitHub Sponsors:  
+→ **[Sponsor @onelightsystem](https://github.com/sponsors/onelightsystem)**  
+
+Your contributions fuel the growth of **Sun Light Meditation** education and the vision of a global Sun Light Civilization.  
+
+Become an OLS sponsor or promoter → [olsme.com/sponsor](https://olsme.com/sponsor)  
+
+We are actively seeking React/TypeScript developers, wellness partners, and early users.
+
+## Quick Links
+
+- Live beta: [olsme.tv](https://olsme.tv)  
+- Main Site: [olsme.com](https://olsme.com)  
+- Join OLS: [olsme.com/OLSStudentProspect](https://olsme.com/OLSStudentProspect)  
 
 ---
 
-**Made with ☀️ and GrokAtenya**  
+**Made with ☀️ and GrokAtenya**
+
 Nazar Pankiv – Founder & Lead Developer  
-GitHub: [@asvitloaten](https://github.com/asvitloaten) | X: [@asvitloaten](https://x.com/asvitloaten)
+GitHub: [@asvitloaten](https://github.com/asvitloaten) | X: [@onelightsystem](https://x.com/onelightsystem)
