@@ -1,3 +1,11 @@
+(archive note)
+https://github.com/asvitloaten/onelightsystem-OLS 
+moved to OLS org about it 
+https://github.com/onelightsystem/onelightsystemOLS
+new version 8.46-7-9 and v9.0 
+https://github.com/onelightsystem/onelightsystemOLS
+
+(archive 8.43 and current version 8.45 / 6 sch. 04.08  ; next-7 sch. 04.11.25 ; final -9 on 04.21.25)
 # OneLightSystem (OLS) – olsme.tv & OLSME.com
 
 [![React](https://img.shields.io/badge/React-19%2B-61DAFB.svg)](https://react.dev)
